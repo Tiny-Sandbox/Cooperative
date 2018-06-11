@@ -1,4 +1,4 @@
-const basic = require("tsa-basic").tiles;
+const basic = require("tsa-basics").tiles;
 
 class CooperativeSwitch extends basic.Space {
 	constructor(x, y) {
