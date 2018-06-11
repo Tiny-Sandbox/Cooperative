@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
   "name": "tsa-cooperative",
+  "version": "1.0.1",
   "description": "Some tile types for making cooperative puzzles.",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tiny-Sandbox/Cooperative-Puzzle.git"
+    "url": "git+https://github.com/Tiny-Sandbox/Cooperative.git"
   },
   "author": "haykam821",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Tiny-Sandbox/Cooperative-Puzzle/issues"
+    "url": "https://github.com/Tiny-Sandbox/Cooperative/issues"
   },
-  "homepage": "https://github.com/Tiny-Sandbox/Cooperative-Puzzle#readme",
+  "homepage": "https://github.com/Tiny-Sandbox/Cooperative#readme",
   "devDependencies": {
     "eslint": "^4.19.1",
     "eslint-config-haykam": "^1.0.1"
