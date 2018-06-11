@@ -1,6 +1,6 @@
 {
-  "name": "tsa-cooperative-puzzle",
   "version": "1.0.0",
+  "name": "tsa-cooperative",
   "description": "Some tile types for making cooperative puzzles.",
   "main": "index.js",
   "scripts": {
